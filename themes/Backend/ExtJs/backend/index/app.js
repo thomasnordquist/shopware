@@ -57,10 +57,7 @@ Ext.define('Shopware.apps.Index', {
      * @array
      */
     controllers:[
-        'Main',
-        'Widgets',
-        'ErrorReporter',
-        'ThemeCacheWarmUp'
+        'Shopware.apps.ViisonPickwareERPStockOverview'
     ],
 
     /**
